@@ -1,2 +1,1 @@
-# wrapped
-An unofficial Github Wrapped
+# Github Wrapped [Unoffical]
